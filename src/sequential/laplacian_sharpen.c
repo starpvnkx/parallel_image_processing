@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
         output_image,
         width,
         height,
-        SHARPEN_4_NEIGHBOR
+        SHARPEN_8_NEIGHBOR
     );
     stbi_write_jpg("sharpened_example.jpg", width, height, 1, output_image, 100);
 
