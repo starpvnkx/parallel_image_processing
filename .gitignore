@@ -53,3 +53,15 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Project build output (executables have no extension on Linux)
+bin/
+src/sequential/seq_sharpen
+src/sequential/seq_upscale
+src/omp/parallel_sharpen
+src/omp/parallel_upscale
+
+# Images written by the programs (inputs live in data/)
+src/**/*.jpg
+src/**/*.jpeg
+src/**/*.png
