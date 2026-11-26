@@ -369,6 +369,12 @@ Figures: `results/figures/` (speedup and efficiency curves, static vs. dynamic c
 | Document | Location |
 |---|---|
 | Software specification | [`SPEC.md`](SPEC.md) |
+| Course project specification (PDF) | [`docs/final_project_specification.pdf`](docs/final_project_specification.pdf) |
+| Laplacian sharpen: sequential pseudocode | [`docs/LAPLACIAN_SHARPEN.md`](docs/LAPLACIAN_SHARPEN.md) |
+| Laplacian sharpen: CUDA design plan | [`docs/CUDA_LAPLACIAN_SHARPEN.md`](docs/CUDA_LAPLACIAN_SHARPEN.md) |
+| Nearest-neighbor scaling: sequential pseudocode | [`docs/NEIGHBOR_SCALING.md`](docs/NEIGHBOR_SCALING.md) |
+| Nearest-neighbor scaling: OpenMP design plan | [`docs/OMP_NEIGHBOR_SCALING.md`](docs/OMP_NEIGHBOR_SCALING.md) |
+| Roadmap / next steps | [`docs/ROADMAP.md`](docs/ROADMAP.md) |
 | Final technical report (4 to 6 pages) | `report/` |
 | Experiment log | `logs/` |
 | Dataset provenance and licenses | `data/README.md` |

@@ -65,3 +65,4 @@ src/omp/parallel_upscale
 src/**/*.jpg
 src/**/*.jpeg
 src/**/*.png
+src/cuda/cuda_sharpen
